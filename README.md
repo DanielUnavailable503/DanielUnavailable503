@@ -62,7 +62,7 @@
 
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&show_icons=true&hide_border=true" />
 
-[instagram]: https://instagram.com/codeSTACKr
-[email]: mailto:starepsro@gmail.com
+[instagram]: https://instagram.com/slosar._.daniel
+[email]: mailto:danielslosar@protonmail.com
 [facebook]: https://www.facebook.com/405error
 [website]: https://google.com
