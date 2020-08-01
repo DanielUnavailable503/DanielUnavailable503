@@ -9,6 +9,10 @@
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about anything you want!
 
+<br/>
+
+---
+
 ### 📫 How to reach me:
 
 [<img align="left" alt="website.com" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
