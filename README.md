@@ -19,8 +19,10 @@
 <br />
 <br />
 
+---
+
 ### Skills:
-<hr>
+
 <img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -36,9 +38,9 @@
 <br />
 <br />
 
-### Working in: 
-<hr>
+---
 
+### Working in: 
 
 <img align="left" alt="Sublime" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
 
@@ -49,9 +51,9 @@
 <br />
 <br />
 
-### Stats: 
-
 ---
+
+### Stats: 
 
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&show_icons=true&hide_border=true" />
 
