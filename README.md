@@ -62,7 +62,7 @@
 
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true" />
 
-<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&layout=compact" />
+<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" />
  
 
 
