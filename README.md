@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Daniel
+### 👋 Hi there, I'm Daniel.
 
 
-## 👨‍💻 I'm a self-taught python programmer, currently still a student.
+## 👨‍💻 I'm a self-taught python programmer, studying CS. 
 
 
 - 🔭 I’m currently working on my Discord Bot.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other programmers.
-- 🤔 I’m looking for help with Python.
+- 🤔 I’m looking for some geek group to join.
 - 💬 Ask me about anything you want!
-
+- ⚡ Fun fact: I love space.
 <br/>
 
 ---
@@ -63,6 +63,6 @@
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&show_icons=true&hide_border=true" />
 
 [instagram]: https://instagram.com/codeSTACKr
-[email]: https://gmail.com
-[facebook]: https://facebook.com
+[email]: mailto:starepsro@gmail.com
+[facebook]: https://www.facebook.com/405error
 [website]: https://google.com
