@@ -16,6 +16,8 @@
 [<img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >/][facebook]
 [<img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
+<br />
+<br />
 
 ### Skills:
 <hr>
@@ -31,14 +33,21 @@
 
 <img align="left" alt="GitHub" width="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+<br />
+
 ### Working in: 
 <hr>
+
+
 <img align="left" alt="Sublime" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
 
 <img align="left" alt="Visual Studio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 
 <img align="left" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<br />
 ### Stats: 
 <hr>
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&show_icons=true&hide_border=true" />
