@@ -3,13 +3,13 @@
 
 ## 👨‍💻 I'm a self-taught python programmer, currently still a student.
 
+
 - 🔭 I’m currently working on my Discord Bot.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other programmers.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about anything you want!
 
-<br/>
 <br/>
 
 ---
