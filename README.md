@@ -10,6 +10,7 @@
 - 💬 Ask me about anything you want!
 
 <br/>
+<br/>
 
 ---
 
@@ -20,6 +21,7 @@
 [<img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
+<br/>
 <br/>
 
 ---
