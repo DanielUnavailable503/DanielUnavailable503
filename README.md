@@ -70,4 +70,4 @@
 [instagram]: https://instagram.com/slosar._.daniel
 [email]: mailto:danielslosar@protonmail.com
 [facebook]: https://www.facebook.com/405error
-[website]: https://google.com
+[website]: https://daydream404.github.io/website/
