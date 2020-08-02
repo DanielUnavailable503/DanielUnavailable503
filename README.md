@@ -68,9 +68,11 @@
 <br/>
 <br/>
 
-`
-pip3 install selenium
-`
+---
+
+```bash
+$ pip install selenium
+```
 
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
