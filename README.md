@@ -5,11 +5,12 @@
 
 
 - 🔭 I’m currently working on my Discord Bot.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m self-learning Python.
 - 👯 I’m looking to collaborate with other programmers.
 - 🤔 I’m looking for some geek group to join.
 - 💬 Ask me about anything you want!
 - ⚡ Fun fact: I love space.
+
 <br/>
 
 ---
