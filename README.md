@@ -66,6 +66,8 @@
 <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" />
  
 
+```pip3 install selenium```
+
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
 [instagram]: https://instagram.com/slosar._.daniel
