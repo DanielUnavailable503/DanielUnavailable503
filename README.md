@@ -11,9 +11,11 @@
 - 💬 Ask me about anything you want!
 - ⚡ Fun fact: I love space.
 
-  * ![pyt](https://img.shields.io/badge/python-3.7-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet) ![discordpy](https://img.shields.io/badge/discord-py-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet) ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=sellfy)
+<br/>
 
+![pyt](https://img.shields.io/badge/python-3.7-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet) ![discordpy](https://img.shields.io/badge/discord-py-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet) ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=sellfy)
 
+<br/>
 ---
 
 ### 📫 How to reach me:
