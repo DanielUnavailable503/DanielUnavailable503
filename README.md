@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other programmers.
 - 🤔 I’m looking for some geek group to join.
 - 💬 Ask me about anything you want!
-- ⚡ Fun fact: I love space.
+
 
 <br/>
 
