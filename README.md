@@ -13,9 +13,8 @@
 
 <br/>
 
-   ![pyt](https://img.shields.io/badge/python-3.7-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet) ![cpp](https://img.shields.io/badge/c++-11-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=c%2B%2B) ![HTML](https://img.shields.io/badge/HTML-5-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=html5) ![CSS](https://img.shields.io/badge/CSS-3-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=css3)  ![discordpy](https://img.shields.io/badge/discord-py-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet) ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=sellfy)
+![pyt](https://img.shields.io/badge/python-3.7-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet) ![cpp](https://img.shields.io/badge/c++-11-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=c%2B%2B) ![HTML](https://img.shields.io/badge/HTML-5-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=html5) ![CSS](https://img.shields.io/badge/CSS-3-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=css3)  ![discordpy](https://img.shields.io/badge/discord-py-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet) ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-blueviolet?style=for-the-badge&logoColor=blueviolet&logo=sellfy)
 
-<br/>
 
 ---
 
