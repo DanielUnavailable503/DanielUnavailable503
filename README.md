@@ -9,9 +9,9 @@
 - <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/conference-call.png"/> I’m looking for some geek group to join.<br/><br/>
 - <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/question-mark.png"/> Ask me anything you want!<br/><br/>
 
+
 ---
 
-<br/>
 
 
 
