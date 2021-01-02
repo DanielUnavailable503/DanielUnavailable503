@@ -4,7 +4,7 @@
 ### <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/developer.png"/> I'm a self-taught python programmer, studying Computer Science. 
 
 
-- <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/> I’m currently working on my Discord Bot.
+- <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot.
 - <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m self-learning Python.
 - <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/conference-call.png"/> I’m looking for some geek group to join.
 - <img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/question-mark.png"/> Ask me anything you want!
