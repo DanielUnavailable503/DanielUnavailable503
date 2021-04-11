@@ -53,7 +53,7 @@
 
 ---
 
-### <ins><img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/nolan/64/maintenance.png"/>Working in:</ins> 
+### <ins><img align="left" alt="Maintenance" width="24px" src="https://img.icons8.com/nolan/64/maintenance.png"/>Working in:</ins> 
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" />
 
