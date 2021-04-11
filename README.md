@@ -53,15 +53,15 @@
 
 ---
 
-### <ins><img align="left" alt="Visual Studio Code" width="24px" src="https://img.icons8.com/nolan/64/maintenance.png"/>Working in:</ins> 
+### <ins><img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/nolan/64/maintenance.png"/>Working in:</ins> 
 
-<img align="left" alt="Visual Studio Code" width="24px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" />
 
-<img align="left" alt="Sublime" width="24px" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/>
+<img align="left" alt="Sublime" width="40px" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/>
 
-<img align="left" alt="Visual Studio" width="24px" src="https://img.icons8.com/nolan/64/visual-studio-2019.png" />
+<img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-2019.png" />
 
-<img align="left" alt="Terminal" width="24px" src="https://img.icons8.com/nolan/64/console.png" />
+<img align="left" alt="Terminal" width="40x" src="https://img.icons8.com/nolan/64/console.png" />
 
 <br/>
 <br/>
