@@ -5,7 +5,7 @@
 
 
 - <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot<br/><br/>
-- <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m self-learning Python.<br/><br/>
+- <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m learning Python.<br/><br/>
 - <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/>
 
 ---
@@ -30,17 +30,17 @@
 
 ---
 
-### <ins><img align="left" alt="Brian" width="24px" src="https://img.icons8.com/nolan/64/brain.png"/>Skills:</ins>
+### <ins><img align="left" alt="Brain" width="24px" src="https://img.icons8.com/nolan/64/brain.png"/>Skills:</ins>
 
 <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png" />
 
-<img align="left" alt="C++" width="24px" src="https://lun-eu.icons8.com/api/assets/267cb9b1-9332-441f-99d9-24bb636c75b3/C   icon 2.png" />
+<img align="left" alt="C++" width="24px" src="https://img.icons8.com/nolan/64/c-plus-plus.png" />
 
 <img align="left" alt="HTML5" width="24px" src="https://img.icons8.com/nolan/64/html-5.png" />
 
 <img align="left" alt="CSS3" width="24px" src="https://img.icons8.com/nolan/64/css-filetype.png" />
 
-<img align="left" alt="AWS" width="24px" src="https://lun-eu.icons8.com/api/assets/68eeb685-85cd-4e52-be77-96cb8383258c/Amazon Web Services icon.png" />
+<img align="left" alt="AWS" width="24px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 
 <img align="left" alt="Git" width="24px" src="https://lun-eu.icons8.com/api/assets/6f6faaae-b7fe-4fb0-8b02-4c9e2583555a/Git icon.png" />
 
