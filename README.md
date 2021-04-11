@@ -32,7 +32,7 @@
 
 ### <ins><img align="left" alt="Brain" width="24px" src="https://img.icons8.com/nolan/64/brain.png"/>Skills:</ins>
 
-<img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png" />
+<img align="left" alt="Python" width="120px" src="https://img.icons8.com/nolan/64/python.png" />
 
 <img align="left" alt="C++" width="24px" src="https://img.icons8.com/nolan/64/c-plus-plus.png" />
 
