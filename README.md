@@ -32,19 +32,19 @@
 
 ### <ins><img align="left" alt="Brain" width="24px" src="https://img.icons8.com/nolan/64/brain.png"/>Skills:</ins>
 
-<img align="left" alt="Python" width="64px" src="https://img.icons8.com/nolan/64/python.png" />
+<img align="left" alt="Python" width="44px" src="https://img.icons8.com/nolan/64/python.png" />
 
-<img align="left" alt="C++" width="64px" src="https://img.icons8.com/nolan/64/c-plus-plus.png" />
+<img align="left" alt="C++" width="44px" src="https://img.icons8.com/nolan/64/c-plus-plus.png" />
 
-<img align="left" alt="HTML5" width="64px" src="https://img.icons8.com/nolan/64/html-5.png" />
+<img align="left" alt="HTML5" width="44px" src="https://img.icons8.com/nolan/64/html-5.png" />
 
-<img align="left" alt="CSS3" width="64px" src="https://img.icons8.com/nolan/64/css-filetype.png" />
+<img align="left" alt="CSS3" width="44px" src="https://img.icons8.com/nolan/64/css-filetype.png" />
 
-<img align="left" alt="AWS" width="64px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+<img align="left" alt="AWS" width="44px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 
-<img align="left" alt="Git" width="64px" src="https://lun-eu.icons8.com/api/assets/6f6faaae-b7fe-4fb0-8b02-4c9e2583555a/Git icon.png" />
+<img align="left" alt="Git" width="44px" src="https://lun-eu.icons8.com/api/assets/6f6faaae-b7fe-4fb0-8b02-4c9e2583555a/Git icon.png" />
 
-<img align="left" alt="GitHub" width="64px" src="https://img.icons8.com/nolan/64/github.png" />
+<img align="left" alt="GitHub" width="44px" src="https://img.icons8.com/nolan/64/github.png" />
 
 
 
