@@ -42,7 +42,7 @@
 
 <img align="left" alt="AWS" width="44px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 
-<img align="left" alt="Git" width="44px" src="https://lun-eu.icons8.com/api/assets/6f6faaae-b7fe-4fb0-8b02-4c9e2583555a/Git icon.png" />
+<img align="left" alt="Git" width="44px" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <img align="left" alt="GitHub" width="44px" src="https://img.icons8.com/nolan/64/github.png" />
 
