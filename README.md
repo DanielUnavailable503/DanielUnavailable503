@@ -1,13 +1,11 @@
 ## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
 
-### <img align="left" alt="Dev" width="24px" src="https://img.icons8.com/nolan/64/developer.png"/> I'm a self-taught python programmer, studying Computer Science. 
+### <img align="left" alt="Dev" width="24px" src="https://img.icons8.com/nolan/64/developer.png"/> I'm studying Computer Science. 
 
 
 - <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot<br/><br/>
 - <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m self-learning Python.<br/><br/>
-- <img align="left" alt="Group" width="24px" src="https://img.icons8.com/nolan/64/conference-call.png"/> I’m looking for some geek group to join.<br/><br/>
-- <img align="left" alt="QuestionMark" width="24px" src="https://img.icons8.com/nolan/64/question-mark.png"/> Ask me anything you want!<br/><br/>
 - <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/>
 
 ---
