@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/Daydream404">
+ <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="250" alt="Daniel's Dev Card"/>
+</a>
 
 ## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
@@ -75,10 +78,6 @@
 
 <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&bg_color=0d1117&title_color=f1f1f1&text_color=f1f1f1&icon_color=f1f1f1&hide_border=true" />
  
-<a href="https://app.daily.dev/Daydream404">
- <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="200" alt="Daniel's Dev Card"/>
-</a>
-
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
 [instagram]: https://instagram.com/slosar._.daniel
