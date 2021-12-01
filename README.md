@@ -1,8 +1,8 @@
+## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
+
 <a href="https://app.daily.dev/Daydream404">
  <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="250" alt="Daniel's Dev Card"/>
 </a>
-
-## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
 <br/>
 
