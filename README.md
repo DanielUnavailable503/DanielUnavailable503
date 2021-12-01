@@ -1,10 +1,14 @@
+<a href="https://app.daily.dev/Daydream404">
+ <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="200" alt="Daniel's Dev Card"/>
+</a>
 ## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
 
 - <img align="left" alt="CS" width="24px" src="https://img.icons8.com/nolan/64/curly-brackets.png"/> I'm studying Computer Science<br/><br/> 
 - <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot<br/><br/>
 - <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m learning Python<br/><br/>
-- <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/>
+- <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/><br/><br/>
+
 
 ---
 
@@ -19,6 +23,7 @@
 ### <ins><img align="left" alt="Info" width="24px" src="https://img.icons8.com/nolan/64/information.png"/>How to reach me:</ins>
 
 [<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/domain.png" />][website]
+[<img align="left" alt="devpage" width="40px" src="https://img.icons8.com/nolan/64/backend-development.png"/>][devpage]
 [<img align="left" alt="Instagram" width="40x" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/nolan/64/facebook.png" />][facebook]
 [<img align="left" alt="Email" width="40px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
@@ -72,6 +77,9 @@
 
 <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&bg_color=0d1117&title_color=f1f1f1&text_color=f1f1f1&icon_color=f1f1f1&hide_border=true" />
  
+<a href="https://app.daily.dev/Daydream404">
+ <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="400" alt="Daniel's Dev Card"/>
+</a>
 
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
@@ -80,3 +88,4 @@
 [facebook]: https://www.facebook.com/405error
 [website]: https://daydream404.github.io/website/
 [icons]: https://icons8.com/icons/nolan
+[devpage]: https://dev.page/danielslosar
