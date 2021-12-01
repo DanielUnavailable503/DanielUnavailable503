@@ -5,7 +5,7 @@
 ## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
 
-- <img align="left" alt="CS" width="24px" src="https://img.icons8.com/nolan/64/curly-brackets.png"/> I'm studying Computer Science<br/><br/> 
+- <img align="left" alt="CS" width="24px" src="https://img.icons8.com/nolan/64/curly-brackets.png"/> \n I'm studying Computer Science<br/><br/> 
 - <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot<br/><br/>
 - <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m learning Python<br/><br/>
 - <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/><br/><br/>
