@@ -38,11 +38,15 @@
 
 <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/nolan/64/css-filetype.png" />
 
+<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/nolan/64/sql.png" />
+
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 
-<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Git" width="40px" src="https://img.icons8.com/nolan/64/git.png" />
 
 <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/64/github.png" />
+
+<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/64/linux--v2.png" />
 
 
 
@@ -60,6 +64,8 @@
 <img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-2019.png" />
 
 <img align="left" alt="Terminal" width="40x" src="https://img.icons8.com/nolan/64/console.png" />
+
+
 
 <br/>
 <br/>
