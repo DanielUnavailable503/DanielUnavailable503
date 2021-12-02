@@ -74,8 +74,6 @@
  <img align="top" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="300"  alt="Daniel's Dev Card" />
 </a>
 
-
-
 <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&bg_color=0d1117&title_color=f1f1f1&text_color=f1f1f1&icon_color=f1f1f1&hide_border=true" />
  
 
