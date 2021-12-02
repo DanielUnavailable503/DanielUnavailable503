@@ -85,7 +85,7 @@
 
 <br/><br/><br/><br/>
 
-<img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&bg_color=0d1117&title_color=f1f1f1&text_color=f1f1f1&icon_color=f1f1f1&hide_border=true" />
+<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&bg_color=0d1117&title_color=f1f1f1&text_color=f1f1f1&icon_color=f1f1f1&hide_border=true" />
  
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
