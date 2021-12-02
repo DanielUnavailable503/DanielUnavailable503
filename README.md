@@ -11,7 +11,7 @@
 - <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot<br/><br/>
 - <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m know Python<br/><br/>
 - <img align="left" alt="CPP" width="24px" src="https://img.icons8.com/nolan/64/c-plus-plus.png"/> I’m learning C++<br/><br/>
-- <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/>
+- <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/><br/><br/>
 
 
 ---
