@@ -72,7 +72,7 @@
 
 
 <a href="https://app.daily.dev/Daydream404">
- <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="250" alt="Daniel's Dev Card" />
+ <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="250" height="300" alt="Daniel's Dev Card" />
 </a>
 
 <br/><br/><br/><br/>
