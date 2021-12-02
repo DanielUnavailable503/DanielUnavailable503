@@ -80,7 +80,7 @@
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&show_icons=true&hide_border=true&title_color=f1f1f1&bg_color=0d1117&text_color=f1f1f1&icon_color=f1f1f1&include_all_commits=true" />
 
 <a href="https://app.daily.dev/Daydream404">
- <img align="center" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="250" alt="Daniel's Dev Card" />
+ <img align="right" src="https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8" width="400" alt="Daniel's Dev Card" />
 </a>
 
 <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&bg_color=0d1117&title_color=f1f1f1&text_color=f1f1f1&icon_color=f1f1f1&hide_border=true&layout=compact" />
