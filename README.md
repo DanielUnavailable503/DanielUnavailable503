@@ -18,8 +18,7 @@
 
 ### <ins><img align="left" alt="Info" width="24px" src="https://img.icons8.com/nolan/64/information.png"/>How to reach me:</ins>
 
-[<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/domain.png" />][website]
-[<img align="left" alt="devpage" width="40px" src="https://img.icons8.com/nolan/64/backend-development.png"/>][devpage]
+[<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/domain.png" />][devpage]
 [<img align="left" alt="Instagram" width="40x" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/nolan/64/facebook.png" />][facebook]
 [<img align="left" alt="Email" width="40px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
