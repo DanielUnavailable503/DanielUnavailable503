@@ -16,7 +16,7 @@
 
 ---
 
-### <ins><img align="left" alt="Info" width="24px" src="https://img.icons8.com/nolan/64/information.png"/>How to reach me:</ins>
+### <ins><img align="left" alt="Info" width="24px" src="https://img.icons8.com/nolan/64/information.png"/>Socials:</ins>
 
 [<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/domain.png" />][devpage]
 [<img align="left" alt="Instagram" width="40x" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
