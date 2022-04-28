@@ -75,7 +75,7 @@
 <img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielUnavailable503&amp;show_icons=true&amp;hide_border=true&amp;title_color=C822FF&amp;bg_color=0d1117&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;include_all_commits=true" />
 
 <a href="https://app.daily.dev/DanielUnavailable503">
- <img align="right" src="https://github.com/DanielUnavailable503/DanielUnavailable503/blob/master/devcard.svg" width="250"  alt="Daniel's Dev Card" />
+ <img align="right" src="https://github.com/Daydream404/Daydream404/blob/master/devcard.svg" width="250"  alt="Daniel's Dev Card" />
 </a>
 
 [//]: # (https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8)
