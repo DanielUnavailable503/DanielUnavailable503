@@ -72,21 +72,21 @@
 
 ### <ins><img align="left" alt="Stats" width="24px" src="https://img.icons8.com/nolan/64/line-chart.png"/>[Stats:][githubstat]</ins>
 
-<img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Daydream404&amp;show_icons=true&amp;hide_border=true&amp;title_color=C822FF&amp;bg_color=0d1117&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;include_all_commits=true" />
+<img align="left" alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielUnavailable503&amp;show_icons=true&amp;hide_border=true&amp;title_color=C822FF&amp;bg_color=0d1117&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;include_all_commits=true" />
 
-<a href="https://app.daily.dev/Daydream404">
- <img align="right" src="https://github.com/Daydream404/Daydream404/blob/master/devcard.svg" width="250"  alt="Daniel's Dev Card" />
+<a href="https://app.daily.dev/DanielUnavailable503">
+ <img align="right" src="https://github.com/DanielUnavailable503/DanielUnavailable503/blob/master/devcard.svg" width="250"  alt="Daniel's Dev Card" />
 </a>
 
 [//]: # (https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8)
 
-<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daydream404&amp;bg_color=0d1117&amp;title_color=C822FF&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;hide_border=true&amp;layout=compact" />
+<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUnavailable503&amp;bg_color=0d1117&amp;title_color=C822FF&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;hide_border=true&amp;layout=compact" />
  
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
-[instagram]: https://instagram.com/slosar._.daniel
-[email]: mailto:danielslosar@protonmail.com
+[instagram]: https://instagram.com/daniel_slosar
+[email]: mailto:danielslosar@proton.me
 [facebook]: https://www.facebook.com/405error
-[website]: https://daydream404.github.io/website/
+[website]: https://dev.page/danielslosar
 [icons]: https://icons8.com/icons/nolan
 [devpage]: https://dev.page/danielslosar
