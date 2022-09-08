@@ -87,4 +87,4 @@
 [facebook]: https://www.facebook.com/405error
 [website]: https://daniel-slosar.github.io/site/
 [icons]: https://icons8.com/icons/nolan
-[devpage]: [https://dev.page/danielslosar](https://daniel-slosar.github.io/site/)
+[devpage]: https://daniel-slosar.github.io/site/
