@@ -19,7 +19,6 @@
 ### <ins><img align="left" alt="Info" width="24px" src="https://img.icons8.com/nolan/64/information.png"/>Socials:</ins>
 
 [<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/domain.png" />][devpage]
-[<img align="left" alt="Instagram" width="40x" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/nolan/64/facebook.png" />][facebook]
 [<img align="left" alt="Email" width="40px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
 
@@ -84,9 +83,8 @@
  
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
-[instagram]: https://instagram.com/daniel_slosar
 [email]: mailto:danielslosar@proton.me
 [facebook]: https://www.facebook.com/405error
-[website]: https://dev.page/danielslosar
+[website]: https://daniel-slosar.github.io/site/
 [icons]: https://icons8.com/icons/nolan
 [devpage]: https://dev.page/danielslosar
