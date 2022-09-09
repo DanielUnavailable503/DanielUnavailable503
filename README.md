@@ -1,8 +1,7 @@
 ## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
-- <img align="left" alt="Country" width="24px" src="https://img.icons8.com/nolan/64/country.png"/> I live in Slovakia<br/><br/> 
-- <img align="left" alt="CS" width="24px" src="https://img.icons8.com/nolan/64/curly-brackets.png"/>I'm studying Computer Science<br/><br/> 
-- <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/nolan/64/discord-logo.png"/></img> I’m currently working on my Discord Bot<br/><br/>
+- <img align="left" alt="Country" width="24px" src="https://img.icons8.com/nolan/64/country.png"/> I live in Bratislava, Slovakia<br/><br/> 
+- <img align="left" alt="CS" width="24px" src="https://img.icons8.com/nolan/64/curly-brackets.png"/>I'm studying Data Science<br/><br/> 
 - <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m learning Python and C++<br/><br/>
 - <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/>
 
@@ -18,9 +17,10 @@
 
 ### <ins><img align="left" alt="Info" width="24px" src="https://img.icons8.com/nolan/64/information.png"/>Socials:</ins>
 
-[<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/domain.png" />][devpage]
-[<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/nolan/64/facebook.png" />][facebook]
-[<img align="left" alt="Email" width="40px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
+[<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/wireframe-display-modes.png" />][website]
+[<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/nolan/64/facebook-circled.png" />][facebook]
+[<img align="left" alt="Email" width="40px" src="https://img.icons8.com/nolan/64/new-post.png"/>][email]
 
 <br/>
 <br/>
@@ -45,6 +45,8 @@
 
 <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/64/linux--v2.png" />
 
+<img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png"/>
+
 <img align="left" alt="AWS" width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 
 <br>
@@ -56,12 +58,11 @@
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" />
 
-<img align="left" alt="Sublime" width="40px" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/>
-
 <img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-2019.png" />
 
-<img align="left" alt="Terminal" width="40x" src="https://img.icons8.com/nolan/64/console.png" />
+<img align="left" alt="Linux" width="40px" src="https://img.icons8.com/nolan/64/linux-client.png"/>
 
+<img align="left" alt="Terminal" width="40x" src="https://img.icons8.com/nolan/64/console.png" />
 
 
 <br/>
@@ -87,4 +88,4 @@
 [facebook]: https://www.facebook.com/405error
 [website]: https://daniel-slosar.github.io/site/
 [icons]: https://icons8.com/icons/nolan
-[devpage]: https://daniel-slosar.github.io/site/
+[linkedin]: https://www.linkedin.com/in/daniel-slosar/
