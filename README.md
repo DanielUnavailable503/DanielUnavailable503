@@ -60,6 +60,8 @@
 
 <img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-2019.png" />
 
+<img align="left" alt="Windows" width="40px" src="https://img.icons8.com/nolan/64/windows-11.png"/>
+
 <img align="left" alt="Linux" width="40px" src="https://img.icons8.com/nolan/64/linux-client.png"/>
 
 <img align="left" alt="Terminal" width="40x" src="https://img.icons8.com/nolan/64/console.png" />
