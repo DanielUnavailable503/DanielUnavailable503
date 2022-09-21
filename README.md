@@ -82,7 +82,7 @@
 
 [//]: # (https://api.daily.dev/devcards/0b7ece7b3b7d4b73b0785becaad0d61d.png?r=ef8)
 
-<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-slosar&amp;bg_color=0d1117&amp;title_color=C822FF&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;hide_border=true&amp;layout=compact&hide=c%23" />
+<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-slosar&amp;bg_color=0d1117&amp;title_color=C822FF&amp;text_color=1A6DFF&amp;icon_color=f1f1f1&amp;hide_border=true&amp;layout=compact&hide=c%23,tsql" />
  
 
 [githubstat]: https://github.com/anuraghazra/github-readme-stats
