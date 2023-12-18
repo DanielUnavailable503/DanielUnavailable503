@@ -1,14 +1,5 @@
 ## <img  align="left" alt="HandShake" width="24px" src="https://img.icons8.com/nolan/64/so-so.png"/> Hi there, I'm Daniel.
 
-- <img align="left" alt="Country" width="24px" src="https://img.icons8.com/nolan/64/country.png"/> I live in Bratislava, Slovakia<br/><br/> 
-- <img align="left" alt="CS" width="24px" src="https://img.icons8.com/nolan/64/curly-brackets.png"/>I'm studying Data Science<br/><br/> 
-- <img align="left" alt="Python" width="24px" src="https://img.icons8.com/nolan/64/python.png"/> I’m learning Python and C++<br/><br/>
-- <img align="left" alt="Icons" width="24px" src="https://img.icons8.com/nolan/64/info.png"/>[Icons by Nolan][icons]<br/>
-
----
-
-
-
 
 ![pyt](https://img.shields.io/badge/python-3.9-8d42fb?style=for-the-badge&logo=python&logoColor=8d42fb) ![cpp](https://img.shields.io/badge/c++-11-3f67fb?style=for-the-badge&logoColor=3f67fb&logo=c%2B%2B) ![HTML](https://img.shields.io/badge/HTML-5-8d42fb?style=for-the-badge&logoColor=8d42fb&logo=html5) ![CSS](https://img.shields.io/badge/CSS-3-3f67fb?style=for-the-badge&logoColor=3f67fb&logo=css3)  ![discordpy](https://img.shields.io/badge/discord-py-8d42fb?style=for-the-badge&logo=discord&logoColor=8d42fb) ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-3f67fb?style=for-the-badge&logoColor=3f67fb&logo=sellfy)
 
@@ -19,7 +10,6 @@
 
 [<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/wireframe-display-modes.png" />][website]
 [<img align="left" alt="website.com" width="40px" src="https://img.icons8.com/nolan/64/linkedin-circled.png" />][linkedin]
-[<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/nolan/64/facebook-circled.png" />][facebook]
 [<img align="left" alt="Email" width="40px" src="https://img.icons8.com/nolan/64/new-post.png"/>][email]
 
 <br/>
@@ -57,8 +47,6 @@
 ### <ins><img align="left" alt="Maintenance" width="24px" src="https://img.icons8.com/nolan/64/maintenance.png"/>Working in:</ins> 
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" />
-
-<img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/nolan/64/visual-studio-2019.png" />
 
 <img align="left" alt="Windows" width="40px" src="https://img.icons8.com/nolan/64/windows-11.png"/>
 
